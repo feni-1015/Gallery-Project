@@ -45,7 +45,7 @@ const App = () => {
         >
           Prev
         </button>
-        <h4>Page {index}</h4>
+        <h3>Page {index}</h3>
         <button
           className='bg-amber-400 text-black px-4 py-2 rounded cursor-pointer active:scale-95'
           onClick={() => {
